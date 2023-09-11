@@ -1,11 +1,12 @@
 {
-  "name": "backend-free-code-camp",
+  "name": "fcc-learn-npm-package-json",
   "author": "Benjamin Akrong",
-  "version": "1.0.0",
-  "description": "This is a backend application that utilizes the tutorials for backend taught by free code camp",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
