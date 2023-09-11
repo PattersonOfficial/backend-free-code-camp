@@ -1,0 +1,19 @@
+{
+  "name": "backend-free-code-camp",
+  "version": "1.0.0",
+  "description": "This is a backend application that utilizes the tutorials for backend taught by free code camp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PattersonOfficial/backend-free-code-camp.git"
+  },
+  "author": "Benjamin Akrong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PattersonOfficial/backend-free-code-camp/issues"
+  },
+  "homepage": "https://github.com/PattersonOfficial/backend-free-code-camp#readme"
+}
