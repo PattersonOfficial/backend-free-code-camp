@@ -1,15 +1,5 @@
 {
-	"name": "fcc-learn-npm-package-json",
   "author": "Benjamin Akrong",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/PattersonOfficial/backend-free-code-camp.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "version": "0.1.0"
 }
